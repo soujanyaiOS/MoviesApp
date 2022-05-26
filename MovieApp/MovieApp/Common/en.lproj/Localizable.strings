@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MovieApp
+
+  Created by soujanya Balusu on 26/05/22.
+  
+*/
+
+"MOVIES_TITLE" = "Marvel’s movies List";
+"CREATED" = "Created On : ";
+"RELEASE" = "Release Date : ";
+"DIRECTOR" = "Director : ";
+"MODIFIED" = "Updated On : ";
+"MOVIE_DETAIL" = "Movies Details";
+"LOGIN_ALERT" = "Please Enter valid credentials";

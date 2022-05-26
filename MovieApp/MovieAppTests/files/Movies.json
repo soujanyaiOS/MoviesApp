@@ -1,0 +1,164 @@
+[
+  {
+    "id": "8DF8715F-6B82-42EA-968A-19CB502EE967",
+    "watchOrder": 1,
+    "title": "Captain America: The First Avenger",
+    "releaseDate": "2011-07-18T00:00:00Z"
+  },
+  {
+    "id": "9110C996-E1FD-4C7B-B415-0869726D914E",
+    "watchOrder": 2,
+    "title": "Captain Marvel",
+    "releaseDate": "2019-02-26T00:00:00Z"
+  },
+  {
+    "id": "33157B9C-0E25-4C24-AD38-62051D658F7E",
+    "watchOrder": 3,
+    "title": "Iron Man",
+    "releaseDate": "2008-04-13T00:00:00Z"
+  },
+  {
+    "id": "5E9E3491-851C-4B88-ABAC-A85F5957FFA6",
+    "watchOrder": 4,
+    "title": "The Incredible Hulk",
+    "releaseDate": "2008-06-07T00:00:00Z"
+  },
+  {
+    "id": "6E955CF3-0089-49B8-ABF3-776B158FC405",
+    "watchOrder": 5,
+    "title": "Iron Man 2",
+    "releaseDate": "2010-04-25T00:00:00Z"
+  },
+  {
+    "id": "72FB1364-A76A-4246-B82C-1890F5B26E46",
+    "watchOrder": 6,
+    "title": "Thor",
+    "releaseDate": "2011-04-16T00:00:00Z"
+  },
+  {
+    "id": "E3879DAD-7EA5-4E9F-84C2-79BBDB5D9264",
+    "watchOrder": 7,
+    "title": "Marvel’s The Avengers",
+    "releaseDate": "2012-04-10T00:00:00Z"
+  },
+  {
+    "id": "ED45BC8F-5633-4535-B722-9B6F668D8B13",
+    "watchOrder": 8,
+    "title": "Iron Man 3",
+    "releaseDate": "2013-04-13T00:00:00Z"
+  },
+  {
+    "id": "66430F40-06EB-46AC-B7A2-194D8FF1D26A",
+    "watchOrder": 9,
+    "title": "Thor: The Dark World",
+    "releaseDate": "2013-10-21T00:00:00Z"
+  },
+  {
+    "id": "B503918E-28DD-4922-B4D2-7915C780F16B",
+    "watchOrder": 10,
+    "title": "Captain America: The Winter Soldier",
+    "releaseDate": "2014-04-03T00:00:00Z"
+  },
+  {
+    "id": "3CAA55E7-49C7-4EFD-9F33-2142326776EB",
+    "watchOrder": 11,
+    "title": "Guardians of the Galaxy",
+    "releaseDate": "2014-07-20T00:00:00Z"
+  },
+  {
+    "id": "441CB5FE-E555-44A4-A63E-0285E46044A4",
+    "watchOrder": 12,
+    "title": "Guardians of the Galaxy Vol. 2",
+    "releaseDate": "2017-04-09T00:00:00Z"
+  },
+  {
+    "id": "E066730C-ED45-457A-9789-5D458B012A8B",
+    "watchOrder": 13,
+    "title": "Avengers: Age of Ultron",
+    "releaseDate": "2015-04-12T00:00:00Z"
+  },
+  {
+    "id": "37AEB79D-6AFB-4147-8191-022615DD7C62",
+    "watchOrder": 14,
+    "title": "Ant-Man",
+    "releaseDate": "2015-06-28T00:00:00Z"
+  },
+  {
+    "id": "377BFBB0-8E60-4C24-B5A4-64D6F08038F0",
+    "watchOrder": 15,
+    "title": "Captain America: Civil War",
+    "releaseDate": "2016-04-11T00:00:00Z"
+  },
+  {
+    "id": "E87EFB73-9B7F-4677-9ED6-D519F2C3F4F3",
+    "watchOrder": 16,
+    "title": "Black Widow",
+    "releaseDate": "2021-06-28T00:00:00Z"
+  },
+  {
+    "id": "74D1DCB1-540F-43E9-AC34-372D9020E8CD",
+    "watchOrder": 17,
+    "title": "Spider-Man: Homecoming",
+    "releaseDate": "2017-06-27T00:00:00Z"
+  },
+  {
+    "id": "85D1546C-F044-4958-9B55-604A400D1AAB",
+    "watchOrder": 18,
+    "title": "Black Panther",
+    "releaseDate": "2018-01-28T00:00:00Z"
+  },
+  {
+    "id": "E41709C6-3CFE-4B9A-A1AB-DE6ABB8D5CE6",
+    "watchOrder": 19,
+    "title": "Doctor Strange",
+    "releaseDate": "2016-10-12T00:00:00Z"
+  },
+  {
+    "id": "D627165F-EE26-4D13-949A-8C75C24A0901",
+    "watchOrder": 20,
+    "title": "Thor: Ragnarok",
+    "releaseDate": "2017-10-09T00:00:00Z"
+  },
+  {
+    "id": "7EDB95B8-D5EE-4023-A7F3-D854130B49E7",
+    "watchOrder": 21,
+    "title": "Ant-Man and the Wasp",
+    "releaseDate": "2018-06-24T00:00:00Z"
+  },
+  {
+    "releaseDate": "2018-04-22T00:00:00Z",
+    "watchOrder": 22,
+    "id": "2DD751E3-033A-41A7-AAAF-7BCE99053F5F",
+    "title": "Avengers: Infinity War"
+  },
+  {
+    "releaseDate": "2019-04-21T00:00:00Z",
+    "watchOrder": 23,
+    "id": "551F5BDD-CE77-4CA6-BF78-4AF50124F316",
+    "title": "Avengers: Endgame"
+  },
+  {
+    "releaseDate": "2019-06-25T00:00:00Z",
+    "watchOrder": 24,
+    "id": "AEF0BEB7-40AD-4C80-B559-177CE513F38D",
+    "title": "Spider-Man: Far From Home"
+  },
+  {
+    "releaseDate": "2021-10-17T00:00:00Z",
+    "watchOrder": 25,
+    "id": "B2303AF9-0861-42B3-9D4A-9836886039E6",
+    "title": "Eternals"
+  },
+  {
+    "releaseDate": "2021-08-15T00:00:00Z",
+    "watchOrder": 26,
+    "id": "245D2523-6370-4FD1-93CD-9F0EB0E657AD",
+    "title": "Shang-Chi and the Legend of the Ten Rings"
+  },
+  {
+    "releaseDate": "2022-05-01T00:00:00Z",
+    "watchOrder": 27,
+    "id": "5CA07BBD-AB77-49B4-8AB6-A0CD9DA9B70B",
+    "title": "Doctor Strange in the Multiverse of Madness"
+  }
+]
